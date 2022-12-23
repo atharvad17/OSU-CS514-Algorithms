@@ -1,0 +1,16 @@
+1. Facebook- Undirected, Sparse, Cyclic.
+2. Twitter- Undirected, Sparse, Cyclic.
+3. Family- Directed, Dense, Cyclic.
+4. Airport, Flights- Directed, Sparse, Acyclic.
+5. Mesh- Undirected, Sparse, Cyclic.
+6. Courses, Prereqs- Directed, Sparse, Acyclic.
+7. Tree- Directed, Sparse, Acyclic.
+8. Linux, dependencies- Directeed, Sparse, Acyclic.
+9. Knapsack- Directed, Sparse, Acyclic.
+
+
+1. My name is Atharva Deshpande.
+2. I spent 2 hours on this assignment.
+3. I found it easy.
+4. I understood 80% of material covered.
+5. Data structures part in the midterm was easy. Wrt DP, I made mistakes in defining the subproblem.

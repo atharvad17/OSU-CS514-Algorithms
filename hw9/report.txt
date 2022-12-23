@@ -1,0 +1,24 @@
+1. Dijkstra:
+	Time Complexity = O((V+E)logV)
+	Space Complexity = O(v)
+
+2.TSP:
+	Time Complexity = O((2^n).n)
+	Space Complexity = O((2^n).(n^2))
+
+
+Q. What if you only have heapq, can you still make Dijkstra work (with the built-in heapq)?Can you re-analyze the time/space complexities?
+	Ans. We can make Dijkstra work even byusing only heapq. The new Time Complexity = O(V.logE + E.log) and Space Complexity = O(E).
+
+Q: Is Dijkstra a greedy algorithm or dynamic programming algorithm?
+	Ans. I think Dijkstra is Dynamic Programming algorithm.
+
+Q: for problems that can be solved by both Dijkstra and Viterbi, which one is faster? 
+	Ans. Theorotically Viterbi is faster than Dijkstra but there is very little difference in their time complexity.
+		In practice, Djikstra may work faster in Sparse graph where as in Dense graph Viterbi might work faster. 
+		
+Debriefing:
+1. My name is Atharva Deshpande.
+2. I spent 4 hours on this assignment.
+3. I found it moderate.
+4. I understood 70% of material covered.

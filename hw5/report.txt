@@ -1,0 +1,10 @@
+1. Time Complexity for Maximum Weighted Independent Set is O(n).
+
+1. My name is Atharva Deshpande.
+2. I spent 2 hours on this assignment.
+3. I found it easy.
+4. I understood 80% of material covered.
+5. I liked sorting techniques.
+6. Binary trees was difficult.
+7. There were some silly mistakes made by me in quizes and hope to not make any 
+such errors in midterm.

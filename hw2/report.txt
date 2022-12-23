@@ -1,0 +1,10 @@
+1. Merge Sort is a stable algorithm.
+2. Quick Sort is not a stable algorithm. However, it can be made stable. We make two seperate lists to keep track of elements less than and greater than pivot.
+With respect to position of pivot, it can be made stable if we are using the middle element as the pivot.
+3. Selection Sort is not a stable algorithm. But, it can be made stable. After comparing both values, the smaller element takes the initial place in the list.
+Instead of swapping the elements, we shift the remaining elements to the right by one position. This way we avoid any unstability in the list.
+4. Insertion Sort is a stable algorithm.
+5. I took 4 hours to complete the assignment.
+6. I would rate the assignment between easy and moderate.
+7. I worked on the assignment mostly alone.
+8. I understand 80% of the material covered.

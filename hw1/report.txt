@@ -1,0 +1,13 @@
+The worst-case time complexity for quicksort is O(n2). The complexity would be such only if the array is sorted or reverse sorted. We don’t have any idea whether it is sorted or not. When we select a pivot element, we are going to get either the left or right array empty. But we keep on partitioning it recursively. The time required for one array is O(n). As we move to next recursion, the complexity becomes (n-1), (n-2) and so on till 1. Adding those complexities, gives us the total time complexity as n2.
+The best-case and average-case time complexity for quicksort is O(nlogn). The complexity would be such only if the pivot element takes the middle position. With every recursion, the pivot becomes the middle element with equal number of elements on both sides, making it completely balanced. The time required for one array is O(n). As we move to next recursion, the complexity becomes (n/2), (n/4) and so on till 1. Adding those complexities and multiplying with height of tree, gives us the total time complexity as nlogn.
+
+The worst-case time complexity for quick select is O(n2). It would be the case like quick sort where if all elements fall under only one side of the pivot. During this, the complexities would add up resulting in n2 time.
+The best-case time complexity for quick select is O(n). The complexity would be such only when it is a balanced tree structure. Here as we go downwards, the time required is half of its previous value. So, summing up all the complexities results in O(n) time.
+
+I spent 6 hours on this assignment.
+I would rate the assignment between easy and moderate.
+I worked on this assignment mostly alone. 
+I understand 60-70% from the material covered.
+No other comments at this moment.
+
+

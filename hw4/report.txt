@@ -1,0 +1,27 @@
+1. My name is Atharva Deshpande.
+2. I took 4 hours on the assignment.
+3. I would rate it moderate.
+4. I worked on it alone.
+5. I understood 60% of material.
+6. Sorting was my favorite part.
+7. Bst was difficult for me.
+
+0.	2.A.
+	Let 2^(k-1) <= n < 2^(k)
+	Where k= log (n+1)
+	let’s consider that in worst case the number of iterations is k-I (where I if the node on that level)
+	∑_(h=0)^log⁡n▒〖(n/((2^h+1)*O(h)〗  )	= O(n ∑_(h=0)^logn▒〖h/2^h〗 )
+						= O (n ∑_(h=0)^∞▒〖h/2^h〗 )	 ∑_(h=0)^∞▒〖h/2^h〗  equals 2. 
+						= O(n)
+	2.C. The time complexity for reversely sorted or sorted numbers will still be O(n).
+
+
+
+1.	a. O(n^2)
+	b. O(n^2)
+	c. O(nlogn)
+
+2.	Time Complexity: O(nk^2)
+
+3.	Time Complexity: O(nlogn)
+	Space Complexity: O(k)
